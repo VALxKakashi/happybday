@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background-image: url('../photo.png');
-  background-size: cover;
+  background-size: 80%;
   background-position: center;
   background-repeat: no-repeat;
   font-size: 14px;
