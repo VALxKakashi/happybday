@@ -11,7 +11,7 @@ body {
   overflow: auto;
 }
 a {
-  color: black;
+  color: red;
   font-size: 14px;
 }
 #main {
