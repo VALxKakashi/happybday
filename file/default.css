@@ -3,7 +3,7 @@ body {
   padding: 0;
   background-image: url('../photo.png');
   background-size: 80%;
-  background-position: center;
+  background-position: center top;
   background-repeat: no-repeat;
   font-size: 14px;
   font-family: sans-serif;
