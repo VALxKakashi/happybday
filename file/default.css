@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background-image: url('../photo2.png');
-  background-size: cover;          /* make image cover entire background */
+  background-size: 90%;          /* make image cover entire background */
   background-position: center;     /* nicely center the image */
   background-repeat: no-repeat;
   font-size: 17px;
