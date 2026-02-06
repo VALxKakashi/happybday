@@ -17,13 +17,7 @@ a {
 #main {
   width: 80%;
 }
-#wrap {
-  position: relative;
-  margin: 0 auto;
-  width: 1100px;
-  height: 680px;
-  margin-top: 10px;
-}
+
 #text {
   width: 272px;
   height: 560px;
@@ -57,11 +51,20 @@ a {
 #clock .digit {
   font-size: 64px;
 }
+#wrap {
+  position: relative;
+  margin: 0 auto;
+  width: 1100px;
+  height: 680px;
+  margin-top: 10px;
+  transform: translateX(150px);  /* shift everything (tree + background) right */
+}
+
 #canvas {
   margin: 0 auto;
   width: 1100px;
   height: 680px;
-  transform: translateX(150px);  /* adjust the value to move more/less right */
+  /* no transform here */
 }
 #error {
   margin: 0 auto;
